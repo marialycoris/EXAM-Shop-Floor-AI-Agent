@@ -1,0 +1,10 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and build artifacts
+backend/venv/
+backend/__pycache__/
+backend/tools/__pycache__/
+frontend/node_modules/
