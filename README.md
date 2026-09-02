@@ -10,8 +10,7 @@ The system demonstrates an **agentic workflow** where the LLM decides which tool
 
 | Item                         | Details                                    |
 | ---------------------------- | ------------------------------------------ |
-| **Demo URL**                 | `YOUR_VERCEL_URL_HERE`                     |
-| **Repository / Source Code** | `YOUR_GITHUB_REPOSITORY_URL_HERE`          |
+| **Demo URL**                 | `https://exam-shop-floor-ai-agent.vercel.app/`
 | **LLM Provider**             | Google Gemini                              |
 | **Model**                    | Gemini 3.5 Flash-Lite                      |
 | **Agent Implementation**     | Custom Python tool-calling agent           |
