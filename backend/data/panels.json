@@ -1,0 +1,50 @@
+[
+  {
+    "panel_code": "P-1001",
+    "cabinet_id": "CAB-001",
+    "panel_name": "Left Side Panel",
+    "dimensions": {
+      "length": 720,
+      "width": 600,
+      "thickness": 18
+    },
+    "material": "MDF",
+    "required_operation": "EDGE_BANDING"
+  },
+  {
+    "panel_code": "P-1002",
+    "cabinet_id": "CAB-001",
+    "panel_name": "Right Side Panel",
+    "dimensions": {
+      "length": 720,
+      "width": 600,
+      "thickness": 18
+    },
+    "material": "MDF",
+    "required_operation": "EDGE_BANDING"
+  },
+  {
+    "panel_code": "P-1003",
+    "cabinet_id": "CAB-002",
+    "panel_name": "Top Panel",
+    "dimensions": {
+      "length": 800,
+      "width": 400,
+      "thickness": 18
+    },
+    "material": "Plywood",
+    "required_operation": "DRILLING"
+  },
+  {
+    "panel_code": "P-1004",
+    "cabinet_id": "CAB-002",
+    "panel_name": "Bottom Panel",
+    "dimensions": {
+      "length": 800,
+      "width": 400,
+      "thickness": 18
+    },
+    "material": "Plywood",
+    "required_operation": "DRILLING"
+  }
+]

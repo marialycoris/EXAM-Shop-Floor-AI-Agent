@@ -1,0 +1,16 @@
+[
+  {
+    "workstation_id": "EDGE-01",
+    "name": "Edge Banding",
+    "supported_operations": [
+      "EDGE_BANDING"
+    ]
+  },
+  {
+    "workstation_id": "DRILL-01",
+    "name": "Drilling",
+    "supported_operations": [
+      "DRILLING"
+    ]
+  }
+]
