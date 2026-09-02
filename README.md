@@ -17,7 +17,7 @@ The system demonstrates an **agentic workflow** where the LLM decides which tool
 | **Frontend**                 | React + TypeScript + Vite                  |
 | **Backend**                  | Python + Flask                             |
 | **Data Storage**             | Structured JSON files + Markdown SOP files |
-| **Approximate Time Spent**   | Approximately 1–2 days                     |
+| **Approximate Time Spent**   | Approximately 1–2 hours                    |
 
 ---
 
