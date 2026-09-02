@@ -21,7 +21,7 @@ function AgentChat({ workstationId, panelCode, onAgentResponse }: Props) {
     setResponse("");
 
     try {
-      const result = await fetch("http://127.0.0.1:5000/api/agent", {
+      const result = await fetch("/api/agent", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
